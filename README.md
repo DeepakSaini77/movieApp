@@ -24,8 +24,10 @@
 
 
 ## App Demo
+https://drive.google.com/file/d/1RDC8xFj__shZA4sT_SS4BzbqbkGVMKo7/view?usp=sharing
 
 ## APK
+https://drive.google.com/file/d/1wUvweWRtsLYzEzb3KRSccY0zlIXq4C7T/view?usp=sharing
 
 ## Getting Started
 
